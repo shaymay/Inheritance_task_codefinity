@@ -1,2 +1,4 @@
-package codefinity.animals;public class Dobermann {
+package codefinity.animals;
+
+public class Dobermann {
 }
